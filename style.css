@@ -1,0 +1,33 @@
+@media (max-width: 800px) {
+    body {
+      margin: 0 auto;
+      width: 80%;
+    }
+
+p {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    color: red;
+  }
+div {
+    color: blue;
+  }
+.first {
+    font-weight: bold;
+  }
+
+.done {
+    text-decoration: line-through;
+  }
+#amable {
+    font-family: cursive;
+  }
+  
+#rudo {
+    font-family: monospace;
+    text-transform: uppercase;
+  }
+  * {
+    padding: 5px;
+    border: 1px solid black;
+    background: rgba(255,0,0,0.25)
+  }
+  
